@@ -41,4 +41,4 @@ Proyek
 17. Mining replit
     https://github.com/xmrig/xmrig/releases/download/v2.14.0/xmrig-2.14.0-xenial-x64.tar.gz
     
-    Mkdir kanxck && cd kanxck && wget http://github.com/xmrig/xmrig/releases/download/v2.14.0/xmrig-2.14.0-xenial-x64.tar.gz && tar xf xmrig-2.14.0-xenial-x64.tar.gz
+    mkdir kanxck && cd kanxck && wget http://github.com/xmrig/xmrig/releases/download/v2.14.0/xmrig-2.14.0-xenial-x64.tar.gz && tar xf xmrig-2.14.0-xenial-x64.tar.gz
