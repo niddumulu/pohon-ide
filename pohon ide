@@ -44,3 +44,4 @@ Proyek
     mkdir kanxck && cd kanxck && wget http://github.com/xmrig/xmrig/releases/download/v2.14.0/xmrig-2.14.0-xenial-x64.tar.gz && tar xf xmrig-2.14.0-xenial-x64.tar.gz
     cd xmrig-2.14.0
     ./xmrig stratum+tcp://sha.eobot.com:3333 -u eobot.776783 -p -x
+18. video free https://www.pexels.com/
